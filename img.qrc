@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/welcome_img">
+        <file>img/cinema_welcome_img.jpg</file>
+    </qresource>
+</RCC>
